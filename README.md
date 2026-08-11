@@ -108,7 +108,6 @@ one who has to consume it.
 <table>
 <tr>
 <td valign="top" align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=KevinHein-KSH&show_icons=true&theme=vue&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub stats"><br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Most used languages">
 </td>
 <td valign="top" align="center">
