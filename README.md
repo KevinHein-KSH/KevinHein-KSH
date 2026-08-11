@@ -105,14 +105,14 @@ one who has to consume it.
 ### Stats
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td valign="top" align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Most used languages">
+<td width="45%" valign="middle" align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="380" alt="Most used languages">
 </td>
-<td valign="top" align="center">
+<td width="55%" valign="middle" align="center">
 <b>✍️ Random Dev Quote</b><br><br>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" height="300" alt="Random dev quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="470" alt="Random dev quote">
 </td>
 </tr>
 </table>
