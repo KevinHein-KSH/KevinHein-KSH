@@ -20,7 +20,8 @@ one who has to consume it.
 - 🎨 **Frontend** — Vue 3 and React with TypeScript, component architecture that survives handoff
 - 🐘 **PostgreSQL** — query optimization with CTEs; I like the problem of untangling a join nobody wants to touch
 - 🧪 **TDD by default** — JUnit 5, Mockito, xUnit; tests wired into Docker + Maven + GitLab CI
-- 🌏 Burmese (native) · English (fluent) · Japanese (JLPT N4)
+
+> 🌏 **Languages** — Burmese (native) · English (fluent) · Japanese (JLPT N4)
 
 ---
 
