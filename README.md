@@ -113,22 +113,13 @@ one who has to consume it.
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KevinHein-KSH&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=KevinHein-KSH&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub stats">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHein-KSH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHein-KSH&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages">
-  </picture>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Most used languages">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KevinHein-KSH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KevinHein-KSH&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
 
