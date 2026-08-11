@@ -1,22 +1,18 @@
-<h1 align="center">Kaung Sett Hein</h1>
+# Hi 👋, I'm Kaung Sett Hein
 
-<p align="center">
-  <strong>Full-Stack Engineer</strong> · Java · .NET · TypeScript<br>
-  <sub>Backend services that hold up. Interfaces that don't get in the way.</sub>
-</p>
+### Also known as **Kevin Hein**
 
-<p align="center">
-  <a href="mailto:kshein.it@gmail.com"><img src="https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Japanese-JLPT_N4-bc002d?style=flat-square" alt="JLPT N4">
-  <img src="https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue" alt="Profile views">
-</p>
+💻 Full-Stack Engineer | ☕ Java & .NET | ⚡ Vue & React | 🌏 Shipped across 4 countries
+
+Backend services that hold up. Interfaces that don't get in the way.
+
+[![Email](https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kshein.it@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/) ![JLPT N4](https://img.shields.io/badge/Japanese-JLPT_N4-bc002d?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue)
 
 ---
 
 # 💫 About Me:
 
-Four years of shipping across four countries — Myanmar, Thailand, Japan, and remote for a Netherlands SaaS team.
+More than four years of shipping across four countries — Myanmar, Thailand, Japan, and remote for a Netherlands SaaS team.
 I've spent most of that time on the seam between backend and frontend: designing the API contract, then being the
 one who has to consume it.
 
