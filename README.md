@@ -108,18 +108,20 @@ one who has to consume it.
 
 ### Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KevinHein-KSH&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=KevinHein-KSH&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub stats">
-  </picture>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Most used languages">
-</p>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<table>
+<tr>
+<td valign="top" align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=KevinHein-KSH&show_icons=true&theme=vue&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub stats"><br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KevinHein-KSH&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Most used languages">
+</td>
+<td valign="top" align="center">
+<b>✍️ Random Dev Quote</b><br><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" height="300" alt="Random dev quote">
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
