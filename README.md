@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:kshein.it@gmail.com"><img src="https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Japanese-JLPT_N4-bc002d?style=flat-square" alt="JLPT N4">
   <img src="https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue" alt="Profile views">
 </p>
