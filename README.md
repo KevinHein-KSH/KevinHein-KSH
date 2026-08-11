@@ -78,7 +78,7 @@ one who has to consume it.
 | [**Flight-Search**](https://github.com/KevinHein-KSH/Flight-Search) | Responsive flight search on the Amadeus Self-Service API | TypeScript |
 | [**Flight-Work-Order-LabTest**](https://github.com/KevinHein-KSH/Flight-Work-Order-LabTest) | Work-order upload & search over CSV/JSON | C# · TypeScript |
 | [**OldPhonePad**](https://github.com/KevinHein-KSH/OldPhonePad) | T9 keypad decoder — small problem, clean solution | C# |
-| [**DSA-Testing**](https://github.com/KevinHein-KSH/DSA-Testing) | Data structures & algorithms, from scratch | C · C++ |
+| [**http-assets**](https://github.com/KevinHein-KSH/http-assets) | Component workspace + HTTP networking exercises (requests, headers, link crawling) | TypeScript · Vite · Tailwind |
 
 ---
 
