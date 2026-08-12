@@ -2,7 +2,7 @@
 
 ### Also known as **Kevin Hein**
 
-💻 Full-Stack Engineer | ☕ Java & .NET | ⚡ Vue & React | 🌏 Shipped across 4 countries
+💻 Full-Stack Engineer | ☕ Java & .NET | ⚡ Vue & React | 🌏 International teams, on-site & remote
 
 Backend services that hold up. Interfaces that don't get in the way.
 
@@ -12,7 +12,7 @@ Backend services that hold up. Interfaces that don't get in the way.
 
 # 💫 About Me:
 
-More than four years of shipping across four countries — Myanmar, Thailand, Japan, and remote for a Netherlands SaaS team.
+More than four years on international teams in Thailand, Japan, and the Netherlands, after starting out in Myanmar.
 I've spent most of that time on the seam between backend and frontend: designing the API contract, then being the
 one who has to consume it.
 
@@ -20,6 +20,8 @@ one who has to consume it.
 - 🎨 **Frontend** — Vue 3 and React with TypeScript, component architecture that survives handoff
 - 🐘 **PostgreSQL** — query optimization with CTEs; I like the problem of untangling a join nobody wants to touch
 - 🧪 **TDD by default** — JUnit 5, Mockito, xUnit; tests wired into Docker + Maven + GitLab CI
+
+---
 
 > 🌏 **Languages** — Burmese (native) · English (fluent) · Japanese (JLPT N4)
 
