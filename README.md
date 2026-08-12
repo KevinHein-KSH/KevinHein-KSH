@@ -125,5 +125,6 @@ one who has to consume it.
 
 <p align="center">
   <sub><em>When I first write the code, only God and I know the code.<br>
-  After 3 months, only God knows what that code means.</em> 😂</sub>
+  After 3 months, only God knows what that code means.<br>
+  And now with AI, even the Almighty might be confused about what we build — if we're not careful.</em> 😂</sub>
 </p>
