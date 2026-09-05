@@ -82,6 +82,7 @@ one who has to consume it.
 
 ---
 
+<!--
 ### Where I've worked
 
 | | Role | Stack |
@@ -90,6 +91,7 @@ one who has to consume it.
 | **2023 – 2024** · 🇯🇵 | Full Stack Developer, **Technopro Engineering** | React/TS on Spring Boot, MySQL data integrity |
 | **2020 – 2022** · 🇹🇭 | Full Stack Developer, **Fusion Solution** | Vue.js B2B apps, ASP.NET Core + EF Core + MSSQL |
 | **2019 – 2020** · 🇲🇲 | Intern, **Thorium** | C# / ASP.NET MVC, React, relational modeling |
+-->
 
 ---
 
