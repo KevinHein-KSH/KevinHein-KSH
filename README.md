@@ -4,8 +4,6 @@
 
 💻 Full-Stack Engineer | ☕ Java & .NET | ⚡ Vue & React | 🌏 International teams, on-site & remote
 
-Backend services that hold up. Interfaces that don't get in the way.
-
 [![Email](https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kshein.it@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/) ![Profile views](https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue)
 
 ---
