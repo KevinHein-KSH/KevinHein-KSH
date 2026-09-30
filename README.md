@@ -6,7 +6,7 @@
 
 Backend services that hold up. Interfaces that don't get in the way.
 
-[![Email](https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kshein.it@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/) ![JLPT N4](https://img.shields.io/badge/Japanese-JLPT_N4-bc002d?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue)
+[![Email](https://img.shields.io/badge/Email-kshein.it%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kshein.it@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-sett-hein-a783b22b2/) ![Profile views](https://komarev.com/ghpvc/?username=KevinHein-KSH&style=flat-square&color=blue)
 
 ---
 
@@ -18,8 +18,8 @@ one who has to consume it.
 
 - 🧩 **Backend** — Java (Quarkus, Spring Boot) microservices, ASP.NET Core REST APIs, multi-tenant state schemas
 - 🎨 **Frontend** — Vue 3 and React with TypeScript, component architecture that survives handoff
-- 🐘 **PostgreSQL** — query optimization with CTEs; I like the problem of untangling a join nobody wants to touch
-- 🧪 **TDD by default** — JUnit 5, Mockito, xUnit; tests wired into Docker + Maven + GitLab CI
+- 🗄️ **Databases** — PostgreSQL and SQL Server, relational modeling and query optimization
+- 🧪 **Testing & CI/CD** — JUnit 5, Mockito, and xUnit; automated tests and builds with Docker, Maven, and GitLab CI
 
 ---
 
