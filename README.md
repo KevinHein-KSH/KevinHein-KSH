@@ -23,7 +23,9 @@ one who has to consume it.
 
 ---
 
-> 🌏 **Languages** — Burmese (native) · English (fluent) · Japanese (JLPT N4)
+### 🌏 Languages
+
+**Burmese** (native) · **English** (fluent) · **Japanese** (JLPT N4)
 
 ---
 
@@ -72,6 +74,7 @@ one who has to consume it.
 **Tools & Other**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
