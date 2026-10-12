@@ -100,11 +100,11 @@ one who has to consume it.
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**Carrier-Integration-Service**](https://github.com/KevinHein-KSH/Carrier-Integration-Service) | Carrier integration layer | TypeScript |
-| [**Flight-Search**](https://github.com/KevinHein-KSH/Flight-Search) | Responsive flight search on the Amadeus Self-Service API | TypeScript |
-| [**Flight-Work-Order-LabTest**](https://github.com/KevinHein-KSH/Flight-Work-Order-LabTest) | Work-order upload & search over CSV/JSON | C# · TypeScript |
-| [**OldPhonePad**](https://github.com/KevinHein-KSH/OldPhonePad) | T9 keypad decoder — small problem, clean solution | C# |
 | [**http-assets**](https://github.com/KevinHein-KSH/http-assets) | Component workspace + HTTP networking exercises (requests, headers, link crawling) | TypeScript · Vite · Tailwind |
+| [**OldPhonePad**](https://github.com/KevinHein-KSH/OldPhonePad) | T9 keypad decoder — small problem, clean solution | C# |
+| [**Flight-Work-Order-LabTest**](https://github.com/KevinHein-KSH/Flight-Work-Order-LabTest) | Work-order upload & search over CSV/JSON | C# · TypeScript |
+| [**Flight-Search**](https://github.com/KevinHein-KSH/Flight-Search) | Responsive flight search on the Amadeus Self-Service API | TypeScript |
+| [**Carrier-Integration-Service**](https://github.com/KevinHein-KSH/Carrier-Integration-Service) | Carrier integration layer | TypeScript |
 
 ---
 
